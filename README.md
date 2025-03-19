@@ -21,7 +21,7 @@
 
 - 📫 How to reach me **sharansai047@gmail.com**
 
-- 📄 Know about my experiences [Currently an Intern at CodTech IT Solutions, gaining hands-on experience in full-stack development and real-world project implementation. 🚀]
+- 📄 Know about my experiences [Currently working as an Intern at CodTech IT Solutions, gaining hands-on experience in full-stack development and real-world project implementation. 🚀]
 
 - ⚡ Fun fact **I can turn caffeine and code into amazing web applications! ☕💻🚀**
 
