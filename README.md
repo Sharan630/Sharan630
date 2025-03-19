@@ -29,7 +29,7 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/bhogi-sharan-sai-b1009834b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bhogi sharan sai" height="30" width="40" /></a>
 <a href="https://instagram.com/sharan_4-7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sharan_4-7" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@h2023110221" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@h2023110221" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/profile/h2023110221" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@h2023110221" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/sharan_630" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sharan_630" height="30" width="40" /></a>
 </p>
 
