@@ -12,7 +12,7 @@
 
 - 🔭 I’m currently working on [Ctrl-R-Express-Management](https://github.com/Sharan630/Ctrl-R-Express-Management-)
 
-- 🌱 I’m currently learning **Advanced full-stack development, Real-time applications, and blockchain integration to enhance my web development skills. 🚀**
+- 🌱 I’m currently learning **Advanced full-stack development, Real-time applications, and Blockchain integration to enhance my web development skills. 🚀**
 
 
 - 👨‍💻 All of my projects are available at [https://github.com/Sharan630](https://github.com/Sharan630)
