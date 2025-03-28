@@ -10,12 +10,8 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [Ctrl-R-Express-Management](https://github.com/Sharan630/Ctrl-R-Express-Management-)
 
 - 🌱 I’m currently learning **Advanced full-stack development, Real-time applications, and Blockchain integration to enhance my web development skills. 🚀**
-
-
-- 👨‍💻 All of my projects are available at [https://github.com/Sharan630](https://github.com/Sharan630)
 
 - 💬 Ask me about **Full Stack Web Development (React, Node.js, PostgreSQL, PHP) Real-time Applications (Chat Apps, Collaborative Tools) Blockchain & Web3 (Crypto Tokens, Smart Contracts) Open Source Contributions Building Scalable & User-Friendly Web Apps**
 
