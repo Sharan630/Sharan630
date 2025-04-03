@@ -2,7 +2,7 @@
 <img align="right" alt="Coding" width="1000" src="https://www.joberty.com/blog/content/images/2023/09/software-engineer.png">
 
 <h1 align="center">Hi 👋, I'm Sharan Sai</h1>
-<h2 align ="center"> My Portfolio 🤖 < a herf ="https://sharansai47-portfolio.vercel.app/".> 
+<h2 align ="center"> My Portfolio 🤖 : "https://sharansai47-portfolio.vercel.app/ 
 <h3 align="center">A passionate Full Stack Web Developer from India, dedicated to building dynamic, user-friendly web applications with seamless frontend and backend integration. 🚀</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sharan630&label=Profile%20views&color=0e75b6&style=flat" alt="sharan630" /> </p>
