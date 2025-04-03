@@ -23,30 +23,7 @@
 - 💬 **Ask Me About:** Full-Stack Web Dev, Blockchain, Real-Time Apps, & Open Source.
 - ⚡ **Fun Fact:** I turn ☕ caffeine into 🚀 innovative web apps!
 
----
-
-## 🌍 Connect With Me:
-<p align="center">
-  <a href="https://www.linkedin.com/in/bhogi-sharan-sai-b1009834b/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://instagram.com/sharan_4-7" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-  <a href="https://www.hackerrank.com/profile/h2023110221" target="_blank">
-    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
-  </a>
-  <a href="https://www.leetcode.com/sharan_630" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-  </a>
-</p>
-
 ## 🚀 Featured Projects:
 ### 🎬 [Movie Sphere](https://movies-sphere-opal.vercel.app/) 🎥
 A fully responsive movie streaming platform inspired by JioCinema.
 
-### 🕒 Productivity Chrome Extension *(In Development)*
-Tracking and analyzing time spent on different websites.
-
-### 🌟 Thanks for Stopping By!  
-💖 If you like my work, consider giving a ⭐ to my repositories! 🚀
