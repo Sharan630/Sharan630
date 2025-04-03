@@ -41,33 +41,12 @@
   </a>
 </p>
 
----
-
-## 🛠️ Tech Stack:
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,php,mysql,postgresql,docker,git,linux,postman,cpp,c,bootstrap,sass,tailwind" />
-</p>
-
----
-
-## 📊 GitHub Stats:
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sharan630&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sharan630&theme=tokyonight" alt="GitHub Streak" width="48%"/>
-</div>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sharan630&layout=compact&theme=tokyonight" alt="Top Languages" width="50%" />
-</p>
-
----
-
 ## 🚀 Featured Projects:
 ### 🎬 [Movie Sphere](https://movies-sphere-opal.vercel.app/) 🎥
 A fully responsive movie streaming platform inspired by JioCinema.
 
 ### 🕒 Productivity Chrome Extension *(In Development)*
 Tracking and analyzing time spent on different websites.
-
 
 ### 🌟 Thanks for Stopping By!  
 💖 If you like my work, consider giving a ⭐ to my repositories! 🚀
