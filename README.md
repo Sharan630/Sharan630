@@ -68,14 +68,6 @@ A fully responsive movie streaming platform inspired by JioCinema.
 ### 🕒 Productivity Chrome Extension *(In Development)*
 Tracking and analyzing time spent on different websites.
 
----
-
-## 🎨 Coding Vibes:
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="50%" alt="Coding GIF">
-</p>
-
----
 
 ### 🌟 Thanks for Stopping By!  
 💖 If you like my work, consider giving a ⭐ to my repositories! 🚀
