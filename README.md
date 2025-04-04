@@ -25,5 +25,5 @@
 
 ## 🚀 Featured Projects:
 ### 🎬 [Movie Sphere](https://movies-sphere-opal.vercel.app/) 🎥
-A fully responsive movie streaming platform inspired by JioCinema.
+A fully responsive movie and TV shows streaming and reviews platform .
 
