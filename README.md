@@ -19,11 +19,11 @@
 ## 👨‍💻 About Me:
 - 🌱 **Currently Exploring:** Advanced Full-Stack Dev, Real-Time Apps, & Blockchain.
 - 💼 **Intern @ CodTech IT Solutions** - Hands-on experience in Full-Stack Dev.
-- 🎬 **Latest Project:** [Movie Sphere 🎥](https://movies-sphere-opal.vercel.app/)
+-  **Latest Project:** [Nexlearns ](www.nexlearns.com)
 - 💬 **Ask Me About:** Full-Stack Web Dev, Blockchain, Real-Time Apps, & Open Source.
 - ⚡ **Fun Fact:** I turn ☕ caffeine into 🚀 innovative web apps!
 
 ## 🚀 Featured Projects:
-### 🎬 [Movie Sphere](https://movies-sphere-opal.vercel.app/) 🎥
+###  [Lakdiwala](www.lakdiwala.org.in) 
 A fully responsive movie and TV shows streaming and reviews platform .
 
